@@ -1,0 +1,301 @@
+review_id,review_text,sentiment
+1,"It is okay, nothing special",neutral
+2,Good value for money and easy to use,positive
+3,This product is excellent and works perfectly,positive
+4,Not bad but could be better,neutral
+5,This is a wonderful product,positive
+6,Excellent design and outstanding performance,positive
+7,Excellent design and outstanding performance,positive
+8,"I love this product, highly recommended",positive
+9,Not bad but could be better,neutral
+10,Good value for money and easy to use,positive
+11,Average product with average performance,neutral
+12,Not bad but could be better,neutral
+13,I have mixed feelings about this item,neutral
+14,"Not worth the price, very disappointing",negative
+15,The product arrived on time and is fantastic,positive
+16,The quality is awful,negative
+17,The item arrived damaged and unusable,negative
+18,"Amazing quality, I am very happy with this purchase",positive
+19,This product is excellent and works perfectly,positive
+20,The product arrived on time and is fantastic,positive
+21,The quality is great and delivery was fast,positive
+22,Excellent design and outstanding performance,positive
+23,Extremely slow delivery and poor service,negative
+24,I am unhappy with this purchase,negative
+25,This product is excellent and works perfectly,positive
+26,"Not worth the price, very disappointing",negative
+27,The quality is great and delivery was fast,positive
+28,The item is acceptable for the price,neutral
+29,"It is okay, nothing special",neutral
+30,The item is acceptable for the price,neutral
+31,"Not worth the price, very disappointing",negative
+32,The item arrived damaged and unusable,negative
+33,Excellent design and outstanding performance,positive
+34,"Bad experience, I will not buy again",negative
+35,The quality is awful,negative
+36,This is a wonderful product,positive
+37,Delivery was normal and quality was fine,neutral
+38,The product is neither great nor terrible,neutral
+39,This product is excellent and works perfectly,positive
+40,The product works as described,neutral
+41,Delivery was normal and quality was fine,neutral
+42,Very useful and better than expected,positive
+43,The item is acceptable for the price,neutral
+44,The item arrived damaged and unusable,negative
+45,The product is terrible and stopped working,negative
+46,This is a wonderful product,positive
+47,"I love this product, highly recommended",positive
+48,The quality is great and delivery was fast,positive
+49,The product works as described,neutral
+50,The product is terrible and stopped working,negative
+51,Good value for money and easy to use,positive
+52,The product arrived on time and is fantastic,positive
+53,"I hate this product, waste of money",negative
+54,Good value for money and easy to use,positive
+55,Very poor quality and disappointing,negative
+56,The product is neither great nor terrible,neutral
+57,Very poor quality and disappointing,negative
+58,I am unhappy with this purchase,negative
+59,This is a wonderful product,positive
+60,Delivery was normal and quality was fine,neutral
+61,"Amazing quality, I am very happy with this purchase",positive
+62,Not bad but could be better,neutral
+63,"Bad experience, I will not buy again",negative
+64,"Not worth the price, very disappointing",negative
+65,Good value for money and easy to use,positive
+66,An ordinary product with standard quality,neutral
+67,"I hate this product, waste of money",negative
+68,The product arrived on time and is fantastic,positive
+69,"Not worth the price, very disappointing",negative
+70,Completely satisfied with the purchase,positive
+71,It has some good and bad features,neutral
+72,"It is okay, nothing special",neutral
+73,I am unhappy with this purchase,negative
+74,I have mixed feelings about this item,neutral
+75,The product is neither great nor terrible,neutral
+76,Very poor quality and disappointing,negative
+77,The quality is awful,negative
+78,The quality is great and delivery was fast,positive
+79,The item is acceptable for the price,neutral
+80,The product arrived on time and is fantastic,positive
+81,"Amazing quality, I am very happy with this purchase",positive
+82,Average product with average performance,neutral
+83,Excellent design and outstanding performance,positive
+84,The product works as described,neutral
+85,Completely satisfied with the purchase,positive
+86,The product arrived on time and is fantastic,positive
+87,The product is neither great nor terrible,neutral
+88,Excellent design and outstanding performance,positive
+89,The product is neither great nor terrible,neutral
+90,Good value for money and easy to use,positive
+91,"I hate this product, waste of money",negative
+92,This is a wonderful product,positive
+93,"Bad experience, I will not buy again",negative
+94,"It is okay, nothing special",neutral
+95,It has some good and bad features,neutral
+96,Very poor quality and disappointing,negative
+97,Very useful and better than expected,positive
+98,Very poor quality and disappointing,negative
+99,Very poor quality and disappointing,negative
+100,The quality is great and delivery was fast,positive
+101,Average product with average performance,neutral
+102,This is a wonderful product,positive
+103,The item is acceptable for the price,neutral
+104,An ordinary product with standard quality,neutral
+105,Average product with average performance,neutral
+106,"It is okay, nothing special",neutral
+107,The product arrived on time and is fantastic,positive
+108,I am unhappy with this purchase,negative
+109,"It is okay, nothing special",neutral
+110,Very useful and better than expected,positive
+111,"Not worth the price, very disappointing",negative
+112,Not bad but could be better,neutral
+113,Excellent design and outstanding performance,positive
+114,Very useful and better than expected,positive
+115,"Bad experience, I will not buy again",negative
+116,"I hate this product, waste of money",negative
+117,This is a wonderful product,positive
+118,An ordinary product with standard quality,neutral
+119,"It is okay, nothing special",neutral
+120,The item is acceptable for the price,neutral
+121,"Not worth the price, very disappointing",negative
+122,Excellent design and outstanding performance,positive
+123,Average product with average performance,neutral
+124,The product is terrible and stopped working,negative
+125,It has some good and bad features,neutral
+126,The product works as described,neutral
+127,The product works as described,neutral
+128,"Amazing quality, I am very happy with this purchase",positive
+129,Excellent design and outstanding performance,positive
+130,It has some good and bad features,neutral
+131,"Amazing quality, I am very happy with this purchase",positive
+132,Delivery was normal and quality was fine,neutral
+133,The product is terrible and stopped working,negative
+134,"I hate this product, waste of money",negative
+135,This is a wonderful product,positive
+136,The product arrived on time and is fantastic,positive
+137,The quality is great and delivery was fast,positive
+138,An ordinary product with standard quality,neutral
+139,The quality is awful,negative
+140,I have mixed feelings about this item,neutral
+141,The item is acceptable for the price,neutral
+142,The product is terrible and stopped working,negative
+143,The quality is great and delivery was fast,positive
+144,"It is okay, nothing special",neutral
+145,The product does not work properly,negative
+146,"I hate this product, waste of money",negative
+147,I have mixed feelings about this item,neutral
+148,An ordinary product with standard quality,neutral
+149,"It is okay, nothing special",neutral
+150,"Bad experience, I will not buy again",negative
+151,"I love this product, highly recommended",positive
+152,This is a wonderful product,positive
+153,"I love this product, highly recommended",positive
+154,Excellent design and outstanding performance,positive
+155,Not bad but could be better,neutral
+156,"Not worth the price, very disappointing",negative
+157,"Not worth the price, very disappointing",negative
+158,This is a wonderful product,positive
+159,Not bad but could be better,neutral
+160,The quality is awful,negative
+161,The item arrived damaged and unusable,negative
+162,I have mixed feelings about this item,neutral
+163,The quality is awful,negative
+164,"I hate this product, waste of money",negative
+165,Very poor quality and disappointing,negative
+166,Excellent design and outstanding performance,positive
+167,"I love this product, highly recommended",positive
+168,Extremely slow delivery and poor service,negative
+169,The product does not work properly,negative
+170,The product arrived on time and is fantastic,positive
+171,The product works as described,neutral
+172,"Amazing quality, I am very happy with this purchase",positive
+173,The product is neither great nor terrible,neutral
+174,Good value for money and easy to use,positive
+175,"I love this product, highly recommended",positive
+176,"It is okay, nothing special",neutral
+177,Very useful and better than expected,positive
+178,Delivery was normal and quality was fine,neutral
+179,Average product with average performance,neutral
+180,The item arrived damaged and unusable,negative
+181,I am unhappy with this purchase,negative
+182,The product arrived on time and is fantastic,positive
+183,"I hate this product, waste of money",negative
+184,"I hate this product, waste of money",negative
+185,I am unhappy with this purchase,negative
+186,"Bad experience, I will not buy again",negative
+187,Extremely slow delivery and poor service,negative
+188,This is a wonderful product,positive
+189,"Not worth the price, very disappointing",negative
+190,The product is neither great nor terrible,neutral
+191,This product is excellent and works perfectly,positive
+192,Average product with average performance,neutral
+193,Not bad but could be better,neutral
+194,Good value for money and easy to use,positive
+195,Average product with average performance,neutral
+196,I have mixed feelings about this item,neutral
+197,"Not worth the price, very disappointing",negative
+198,The product works as described,neutral
+199,This is a wonderful product,positive
+200,The product works as described,neutral
+201,"It is okay, nothing special",neutral
+202,The product is terrible and stopped working,negative
+203,Good value for money and easy to use,positive
+204,Completely satisfied with the purchase,positive
+205,The item arrived damaged and unusable,negative
+206,Very useful and better than expected,positive
+207,"Bad experience, I will not buy again",negative
+208,This product is excellent and works perfectly,positive
+209,Not bad but could be better,neutral
+210,I have mixed feelings about this item,neutral
+211,Not bad but could be better,neutral
+212,This is a wonderful product,positive
+213,Extremely slow delivery and poor service,negative
+214,The product works as described,neutral
+215,Very useful and better than expected,positive
+216,Extremely slow delivery and poor service,negative
+217,An ordinary product with standard quality,neutral
+218,Good value for money and easy to use,positive
+219,The product is neither great nor terrible,neutral
+220,"It is okay, nothing special",neutral
+221,Completely satisfied with the purchase,positive
+222,It has some good and bad features,neutral
+223,"It is okay, nothing special",neutral
+224,Extremely slow delivery and poor service,negative
+225,I am unhappy with this purchase,negative
+226,The quality is great and delivery was fast,positive
+227,"I love this product, highly recommended",positive
+228,Very poor quality and disappointing,negative
+229,The product works as described,neutral
+230,Very useful and better than expected,positive
+231,"Not worth the price, very disappointing",negative
+232,The product works as described,neutral
+233,An ordinary product with standard quality,neutral
+234,Extremely slow delivery and poor service,negative
+235,An ordinary product with standard quality,neutral
+236,This product is excellent and works perfectly,positive
+237,I am unhappy with this purchase,negative
+238,The product is terrible and stopped working,negative
+239,The product does not work properly,negative
+240,This product is excellent and works perfectly,positive
+241,Good value for money and easy to use,positive
+242,An ordinary product with standard quality,neutral
+243,Very poor quality and disappointing,negative
+244,I have mixed feelings about this item,neutral
+245,It has some good and bad features,neutral
+246,Delivery was normal and quality was fine,neutral
+247,Completely satisfied with the purchase,positive
+248,Excellent design and outstanding performance,positive
+249,"Amazing quality, I am very happy with this purchase",positive
+250,Excellent design and outstanding performance,positive
+251,I have mixed feelings about this item,neutral
+252,The quality is awful,negative
+253,The product arrived on time and is fantastic,positive
+254,The product arrived on time and is fantastic,positive
+255,Not bad but could be better,neutral
+256,The product does not work properly,negative
+257,It has some good and bad features,neutral
+258,The product arrived on time and is fantastic,positive
+259,The product works as described,neutral
+260,"Not worth the price, very disappointing",negative
+261,The product works as described,neutral
+262,"I love this product, highly recommended",positive
+263,"I love this product, highly recommended",positive
+264,Average product with average performance,neutral
+265,The product does not work properly,negative
+266,"Not worth the price, very disappointing",negative
+267,Very useful and better than expected,positive
+268,This is a wonderful product,positive
+269,Extremely slow delivery and poor service,negative
+270,The product is neither great nor terrible,neutral
+271,I am unhappy with this purchase,negative
+272,The item arrived damaged and unusable,negative
+273,The quality is great and delivery was fast,positive
+274,An ordinary product with standard quality,neutral
+275,"Not worth the price, very disappointing",negative
+276,The product works as described,neutral
+277,Not bad but could be better,neutral
+278,The item is acceptable for the price,neutral
+279,The quality is great and delivery was fast,positive
+280,The item is acceptable for the price,neutral
+281,Completely satisfied with the purchase,positive
+282,"I hate this product, waste of money",negative
+283,Average product with average performance,neutral
+284,"It is okay, nothing special",neutral
+285,Very poor quality and disappointing,negative
+286,"Bad experience, I will not buy again",negative
+287,I have mixed feelings about this item,neutral
+288,Extremely slow delivery and poor service,negative
+289,"Bad experience, I will not buy again",negative
+290,Good value for money and easy to use,positive
+291,Excellent design and outstanding performance,positive
+292,Excellent design and outstanding performance,positive
+293,The product arrived on time and is fantastic,positive
+294,The product is terrible and stopped working,negative
+295,This product is excellent and works perfectly,positive
+296,The quality is awful,negative
+297,"Not worth the price, very disappointing",negative
+298,Excellent design and outstanding performance,positive
+299,The quality is awful,negative
+300,Excellent design and outstanding performance,positive
